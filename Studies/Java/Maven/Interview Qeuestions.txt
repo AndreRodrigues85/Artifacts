@@ -1,0 +1,9 @@
+What are the phases of the Maven Life cycle.
+
+What is the Selenium WebDriver ?
+
+How can i find some element using the WebDriver?
+What are the available Locators?
+
+What is the difference between the Implicit and Explicit?
+With one is better?
