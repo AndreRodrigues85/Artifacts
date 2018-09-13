@@ -1,0 +1,23 @@
+
+Maven
+Spring
+Clean Code
+Rest Assured
+MasterCard Framework
+Gradle
+GIT
+BDD/QA best practices
+Jenkins / Continous Integration
+Best Practices in Java / Most Useful Design Patterns
+REST WebServices
+Jenkins Pipelines
+JAVA 8
+Docker
+Java 9
+Microservices
+Reactive
+GoLang
+JUnit / Unit tests
+Test methodologies
+
+
